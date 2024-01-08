@@ -111,7 +111,7 @@ li {
     width: 61%;
     top: 58%;
     left: 10%;
-    color: white;
+    color: black;
     min-height: 653px;
     grid-template-rows: min-content 1fr;
     grid-template-columns: 100%;
